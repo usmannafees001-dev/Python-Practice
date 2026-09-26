@@ -99,10 +99,3 @@ any(1,2)
 print("end of code here")
 print(",,,,,,,,,")
 print("new code is here")
-
-def calc_area(length,width):
-    area = length*width
-    return area
-
-result = calc_area(4*5)
-print(result)
